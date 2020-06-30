@@ -1,0 +1,320 @@
+[
+  {
+    "id": 5,
+    "countryID": 1,
+    "geoMeta": "SS",
+    "name": "Guipúzcoa"
+  },
+  {
+    "id": 6,
+    "countryID": 1,
+    "geoMeta": "H ",
+    "name": "Huelva"
+  },
+  {
+    "id": 7,
+    "countryID": 1,
+    "geoMeta": "HU",
+    "name": "Huesca"
+  },
+  {
+    "id": 8,
+    "countryID": 1,
+    "geoMeta": "J ",
+    "name": "Jaén"
+  },
+  {
+    "id": 9,
+    "countryID": 1,
+    "geoMeta": "LO",
+    "name": "La Rioja"
+  },
+  {
+    "id": 10,
+    "countryID": 1,
+    "geoMeta": "GC",
+    "name": "Las Palmas"
+  },
+  {
+    "id": 11,
+    "countryID": 1,
+    "geoMeta": "LE",
+    "name": "León"
+  },
+  {
+    "id": 12,
+    "countryID": 1,
+    "geoMeta": "L ",
+    "name": "Lleida"
+  },
+  {
+    "id": 13,
+    "countryID": 1,
+    "geoMeta": "LU",
+    "name": "Lugo"
+  },
+  {
+    "id": 14,
+    "countryID": 1,
+    "geoMeta": "M ",
+    "name": "Madrid"
+  },
+  {
+    "id": 15,
+    "countryID": 1,
+    "geoMeta": "MA",
+    "name": "Málaga"
+  },
+  {
+    "id": 16,
+    "countryID": 1,
+    "geoMeta": "ML",
+    "name": "Melilla"
+  },
+  {
+    "id": 17,
+    "countryID": 1,
+    "geoMeta": "MU",
+    "name": "Murcia"
+  },
+  {
+    "id": 18,
+    "countryID": 1,
+    "geoMeta": "NA",
+    "name": "Navarra"
+  },
+  {
+    "id": 19,
+    "countryID": 1,
+    "geoMeta": "OR",
+    "name": "Ourense"
+  },
+  {
+    "id": 20,
+    "countryID": 1,
+    "geoMeta": "P ",
+    "name": "Palencia"
+  },
+  {
+    "id": 21,
+    "countryID": 1,
+    "geoMeta": "PO",
+    "name": "Pontevedra"
+  },
+  {
+    "id": 22,
+    "countryID": 1,
+    "geoMeta": "SA",
+    "name": "Salamanca"
+  },
+  {
+    "id": 23,
+    "countryID": 1,
+    "geoMeta": "TF",
+    "name": "Santa Cruz De Tenerife"
+  },
+  {
+    "id": 24,
+    "countryID": 1,
+    "geoMeta": "SO",
+    "name": "Segovia"
+  },
+  {
+    "id": 25,
+    "countryID": 1,
+    "geoMeta": "SE",
+    "name": "Sevilla"
+  },
+  {
+    "id": 26,
+    "countryID": 1,
+    "geoMeta": "SO",
+    "name": "Soria"
+  },
+  {
+    "id": 27,
+    "countryID": 1,
+    "geoMeta": "T ",
+    "name": "Tarragona"
+  },
+  {
+    "id": 28,
+    "countryID": 1,
+    "geoMeta": "TE",
+    "name": "Teruel"
+  },
+  {
+    "id": 29,
+    "countryID": 1,
+    "geoMeta": "TO",
+    "name": "Toledo"
+  },
+  {
+    "id": 30,
+    "countryID": 1,
+    "geoMeta": "V ",
+    "name": "València"
+  },
+  {
+    "id": 31,
+    "countryID": 1,
+    "geoMeta": "VA",
+    "name": "Valladolid"
+  },
+  {
+    "id": 32,
+    "countryID": 1,
+    "geoMeta": "BI",
+    "name": "Vizcaya"
+  },
+  {
+    "id": 33,
+    "countryID": 1,
+    "geoMeta": "ZA",
+    "name": "Zamora"
+  },
+  {
+    "id": 34,
+    "countryID": 1,
+    "geoMeta": "Z ",
+    "name": "Zaragoza"
+  },
+  {
+    "id": 35,
+    "countryID": 1,
+    "geoMeta": "C ",
+    "name": "A Coruña"
+  },
+  {
+    "id": 36,
+    "countryID": 1,
+    "geoMeta": "VI",
+    "name": "Álava"
+  },
+  {
+    "id": 37,
+    "countryID": 1,
+    "geoMeta": "AB",
+    "name": "Albacete"
+  },
+  {
+    "id": 38,
+    "countryID": 1,
+    "geoMeta": "A ",
+    "name": "Alicante"
+  },
+  {
+    "id": 39,
+    "countryID": 1,
+    "geoMeta": "AL",
+    "name": "Almería"
+  },
+  {
+    "id": 40,
+    "countryID": 1,
+    "geoMeta": "O ",
+    "name": "Asturias"
+  },
+  {
+    "id": 41,
+    "countryID": 1,
+    "geoMeta": "AV",
+    "name": "Ávila"
+  },
+  {
+    "id": 42,
+    "countryID": 1,
+    "geoMeta": "BA",
+    "name": "Badajoz"
+  },
+  {
+    "id": 43,
+    "countryID": 1,
+    "geoMeta": "PM",
+    "name": "Balears (Illes)"
+  },
+  {
+    "id": 44,
+    "countryID": 1,
+    "geoMeta": "B ",
+    "name": "Barcelona"
+  },
+  {
+    "id": 45,
+    "countryID": 1,
+    "geoMeta": "BU",
+    "name": "Burgos"
+  },
+  {
+    "id": 46,
+    "countryID": 1,
+    "geoMeta": "CC",
+    "name": "Cáceres"
+  },
+  {
+    "id": 47,
+    "countryID": 1,
+    "geoMeta": "CA",
+    "name": "Cádiz"
+  },
+  {
+    "id": 48,
+    "countryID": 1,
+    "geoMeta": "S ",
+    "name": "Cantabria"
+  },
+  {
+    "id": 49,
+    "countryID": 1,
+    "geoMeta": "CS",
+    "name": "Castellón"
+  },
+  {
+    "id": 50,
+    "countryID": 1,
+    "geoMeta": "CE",
+    "name": "Ceuta"
+  },
+  {
+    "id": 51,
+    "countryID": 1,
+    "geoMeta": "CR",
+    "name": "Ciudad Real"
+  },
+  {
+    "id": 52,
+    "countryID": 1,
+    "geoMeta": "CO",
+    "name": "Córdoba"
+  },
+  {
+    "id": 53,
+    "countryID": 1,
+    "geoMeta": "CU",
+    "name": "Cuenca"
+  },
+  {
+    "id": 54,
+    "countryID": 1,
+    "geoMeta": "GE",
+    "name": "Girona"
+  },
+  {
+    "id": 55,
+    "countryID": 1,
+    "geoMeta": "GR",
+    "name": "Granada"
+  },
+  {
+    "id": 56,
+    "countryID": 1,
+    "geoMeta": "GU",
+    "name": "Guadalajara"
+  },
+  {
+    "id": 57,
+    "countryID": 1,
+    "geoMeta": null,
+    "name": "Desconocido"
+  }
+]
